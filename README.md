@@ -1,7 +1,7 @@
 # List-Of-Banks-In-Nigeria
 
-
-## if already have a table here is the query just edit and run!
+## get the csv, php, excel, sql, phython file up there enjoy!
+## if already have a table, here is the query just edit and run!
 
 ## Remember to star this repo!
 
